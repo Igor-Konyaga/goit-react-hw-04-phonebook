@@ -1,4 +1,4 @@
-import { Component } from 'react';
+
 import css from './Filter.module.css';
 
 export const Filter = ({ filter }) => {
